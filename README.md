@@ -1,7 +1,7 @@
 # ExtendedFlexibleUI
 Simultaneous styling multiple UI objects in Unity Editor and in build.
 
-Created and shared for the [GDN's](https://discord.gg/GDN) Code Gift project https://github.com/Game-Dev-Network/code-gift
+Created and shared for the [GDN's](https://discord.gg/GDN) Code Gift project https://github.com/Game-Dev-Network/GDN-Lab
 
 ## Features:
 - Supports tracking multiple themes
